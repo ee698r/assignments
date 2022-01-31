@@ -1,3 +1,10 @@
+# Assignments: Practice and Share
+Here are the assignments for your practice. We shall have coding exams soon. Similar questions will be asked.
+
+This is a shared repository where you can contribute your codes. This will be visible publicly and editable by all students. This will help all of you to learn collaboratively. It is not graded, but active contributors will get preference if they are on the border while final grading.
+
+Push your code in the folder meant for that topic. You can improve upon others' codes from this repo by editing them. We request you to NOT copy from other sources/websites.
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
