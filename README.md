@@ -1,5 +1,5 @@
 # Assignments: Practice and Share
-Here are the assignments for your practice. We shall have coding exams soon. Similar questions will be asked.
+(Here)[https://iitk-my.sharepoint.com/:f:/g/personal/vipular_iitk_ac_in/EtroSiFVsSVDr-fKZw4bqIkBYCZUb0euLQe9zZaSjn3Mgg] are the assignments for your practice. We shall have coding exams soon. Similar questions will be asked.
 
 This is a shared repository where you can contribute your codes. This will be visible publicly and editable by all students. This will help all of you to learn collaboratively. It is not graded, but active contributors will get preference if they are on the border while final grading.
 
